@@ -1,0 +1,4 @@
+P001,Laptop Dell,10,500.00,800.00
+P002,Mouse Inalambrico,50,10.00,25.00
+P003,Teclado Mecanico,30,40.00,85.00
+P004,Monitor 24,15,100.00,180.00

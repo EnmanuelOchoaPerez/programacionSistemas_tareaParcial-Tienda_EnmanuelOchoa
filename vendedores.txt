@@ -1,0 +1,2 @@
+admin,1234,Administrador Principal
+juan,ventas1,Juan Perez
